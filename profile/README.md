@@ -11,4 +11,4 @@ We build software products and provide development services for startups and bus
 
 ## Contact
 Website: https://optimusalgos.net
-Email: info@optimusalgos.net
+Email: contact@optimusalgos.net
